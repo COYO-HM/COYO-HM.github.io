@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://coyo-log.github.io/sitemap/sitemap-index.xml
-Host: https://coyo-log.github.io
+Sitemap: https://coyo-hm.github.io/sitemap/sitemap-index.xml
+Host: https://coyo-hm.github.io
